@@ -53,6 +53,11 @@ Write a program that reads two Number variables and prints which one is greater.
 ### translator.js
 Write a program that reads a variable with language code and prints the translation of "Hello World" for that language.
 
+
+let translation = ["ciao mundo", "hola mundo", "bonjour le monde"] {
+    console.log("hello world")
+}
+
 **Requirements**
 * You should have a variable for the language code (e.g. "es", "de", "fr", "en").
 * Your program should print the translation of "Hello World" based on the language code in the variable.
